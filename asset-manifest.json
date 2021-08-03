@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/summer_invite/static/css/main.92b44cb6.chunk.css",
-    "main.js": "/summer_invite/static/js/main.7f917180.chunk.js",
-    "main.js.map": "/summer_invite/static/js/main.7f917180.chunk.js.map",
+    "main.css": "/summer_invite/static/css/main.acd1f7cd.chunk.css",
+    "main.js": "/summer_invite/static/js/main.6c3bd2c8.chunk.js",
+    "main.js.map": "/summer_invite/static/js/main.6c3bd2c8.chunk.js.map",
     "runtime-main.js": "/summer_invite/static/js/runtime-main.14189a3b.js",
     "runtime-main.js.map": "/summer_invite/static/js/runtime-main.14189a3b.js.map",
     "static/js/2.5a566893.chunk.js": "/summer_invite/static/js/2.5a566893.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.160bf119.chunk.js": "/summer_invite/static/js/3.160bf119.chunk.js",
     "static/js/3.160bf119.chunk.js.map": "/summer_invite/static/js/3.160bf119.chunk.js.map",
     "index.html": "/summer_invite/index.html",
-    "static/css/main.92b44cb6.chunk.css.map": "/summer_invite/static/css/main.92b44cb6.chunk.css.map",
+    "static/css/main.acd1f7cd.chunk.css.map": "/summer_invite/static/css/main.acd1f7cd.chunk.css.map",
     "static/js/2.5a566893.chunk.js.LICENSE.txt": "/summer_invite/static/js/2.5a566893.chunk.js.LICENSE.txt",
     "static/media/index.css": "/summer_invite/static/media/burger.1df9d30d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.14189a3b.js",
     "static/js/2.5a566893.chunk.js",
-    "static/css/main.92b44cb6.chunk.css",
-    "static/js/main.7f917180.chunk.js"
+    "static/css/main.acd1f7cd.chunk.css",
+    "static/js/main.6c3bd2c8.chunk.js"
   ]
 }
