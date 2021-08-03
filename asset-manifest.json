@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vardjaklap/summer_invite/static/css/main.1e9dd877.chunk.css",
+    "main.js": "/vardjaklap/summer_invite/static/js/main.7f917180.chunk.js",
+    "main.js.map": "/vardjaklap/summer_invite/static/js/main.7f917180.chunk.js.map",
+    "runtime-main.js": "/vardjaklap/summer_invite/static/js/runtime-main.0dc16c26.js",
+    "runtime-main.js.map": "/vardjaklap/summer_invite/static/js/runtime-main.0dc16c26.js.map",
+    "static/js/2.5a566893.chunk.js": "/vardjaklap/summer_invite/static/js/2.5a566893.chunk.js",
+    "static/js/2.5a566893.chunk.js.map": "/vardjaklap/summer_invite/static/js/2.5a566893.chunk.js.map",
+    "static/js/3.160bf119.chunk.js": "/vardjaklap/summer_invite/static/js/3.160bf119.chunk.js",
+    "static/js/3.160bf119.chunk.js.map": "/vardjaklap/summer_invite/static/js/3.160bf119.chunk.js.map",
+    "index.html": "/vardjaklap/summer_invite/index.html",
+    "static/css/main.1e9dd877.chunk.css.map": "/vardjaklap/summer_invite/static/css/main.1e9dd877.chunk.css.map",
+    "static/js/2.5a566893.chunk.js.LICENSE.txt": "/vardjaklap/summer_invite/static/js/2.5a566893.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/vardjaklap/summer_invite/static/media/burger.1df9d30d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0dc16c26.js",
+    "static/js/2.5a566893.chunk.js",
+    "static/css/main.1e9dd877.chunk.css",
+    "static/js/main.7f917180.chunk.js"
+  ]
+}
