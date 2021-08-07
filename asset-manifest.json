@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/summer_invite/static/css/main.acd1f7cd.chunk.css",
-    "main.js": "/summer_invite/static/js/main.2527800a.chunk.js",
-    "main.js.map": "/summer_invite/static/js/main.2527800a.chunk.js.map",
+    "main.js": "/summer_invite/static/js/main.6346e87c.chunk.js",
+    "main.js.map": "/summer_invite/static/js/main.6346e87c.chunk.js.map",
     "runtime-main.js": "/summer_invite/static/js/runtime-main.14189a3b.js",
     "runtime-main.js.map": "/summer_invite/static/js/runtime-main.14189a3b.js.map",
     "static/js/2.5a566893.chunk.js": "/summer_invite/static/js/2.5a566893.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.14189a3b.js",
     "static/js/2.5a566893.chunk.js",
     "static/css/main.acd1f7cd.chunk.css",
-    "static/js/main.2527800a.chunk.js"
+    "static/js/main.6346e87c.chunk.js"
   ]
 }
